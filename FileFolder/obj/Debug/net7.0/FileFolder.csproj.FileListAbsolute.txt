@@ -1,0 +1,15 @@
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\bin\Debug\net7.0\FileFolder.exe
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\bin\Debug\net7.0\FileFolder.deps.json
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\bin\Debug\net7.0\FileFolder.runtimeconfig.json
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\bin\Debug\net7.0\FileFolder.dll
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\bin\Debug\net7.0\FileFolder.pdb
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.csproj.AssemblyReference.cache
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.AssemblyInfoInputs.cache
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.AssemblyInfo.cs
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.csproj.CoreCompileInputs.cache
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.dll
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\refint\FileFolder.dll
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.pdb
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\FileFolder.genruntimeconfig.cache
+C:\Users\SattiVenkataRamaKris\OneDrive - Syncfusion\Desktop\FileFolder\obj\Debug\net7.0\ref\FileFolder.dll
